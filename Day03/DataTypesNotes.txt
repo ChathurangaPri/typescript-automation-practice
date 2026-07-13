@@ -1,0 +1,26 @@
+let age:number = 10
+
+Data Types - number
+Annotation - if the data type is explicitely mentioned that data type is the annotation
+Type Inference - if the data type is not explicitely mentioned, then typescript assign the data type based on the assigned value at run time. This is called type inference.
+
+// Premitive(Built-in) - Only single value could be assigned
+/* 
+Number
+String
+Boolean
+Null
+Undefined
+Any
+Union Type
+Void
+*/
+
+// Non-Premitive (Objects) - Set of values can be assigned
+/* 
+Array
+Class
+Function
+Interface
+Touple etc.
+*/
